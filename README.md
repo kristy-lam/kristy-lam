@@ -3,7 +3,7 @@
 
 Hello there! (And I guess I must say Hello World as well!) 👋  
 
-I am an aspiring software developer / tester born and raised in Hong Kong but moved to the UK ![UK flag](/gb.png) with my family in 2021.
+I am an aspiring software developer / tester born and raised in Hong Kong ![HK flag](/HK@2x.png) but moved to the UK ![UK flag](/GB@2x.png) with my family in 2021.
 
 Always keen on learning new skills, I'm switching to developing and testing software solutions and ready to embark on a new career path.
 
@@ -27,7 +27,8 @@ I will be uploading more of my projects here so stay tuned! 🔭
 
 ## Acknowledgements
 
- - Awesome icons from [@rxaviers/gist:7360908](https://gist.github.com/rxaviers/7360908)
-
-  - Awesome flag icons from [@stevenrskelton/flag-icon](https://github.com/stevenrskelton/flag-icon)
+ Awesome icons from:
+ - [@rxaviers/gist:7360908](https://gist.github.com/rxaviers/7360908)
+ - [@yammadev/flag-icons](https://github.com/yammadev/flag-icons)
+ - [Flat Icons](https://www.flaticon.com/free-icon/linkedin_174857)
 
