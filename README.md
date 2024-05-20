@@ -3,9 +3,9 @@
 
 Hello there! (And I guess I must say Hello World as well!) 👋  
 
-I am an aspiring software developer / tester born and raised in Hong Kong ![HK flag](/HK@2x.png) but moved to the UK ![UK flag](/GB@2x.png) with my family in 2021.
+I am an aspiring software developer born and raised in Hong Kong ![HK flag](/HK@2x.png) but moved to the UK ![UK flag](/GB@2x.png) with my family in 2021.
 
-Always keen on learning new skills, I'm switching to developing and testing software solutions and ready to embark on a new career path.
+Always keen on learning new skills, I'm switching to developing software solutions and ready to embark on a new career path.
 
 Back in the high school days, I was addicted to updating the layout of my Xanga blog every now and then. Little did I know I was already programming. When studying for my master's degree in Library and Information Management between 2018 and 2020 while working full-time, I had the chance to code using bootstrap in an e-learning course where I created an engaging online course on Moodle. (By the way, I graduated with distinction 🌟🎉)
 
